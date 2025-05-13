@@ -1,5 +1,7 @@
 using GitHub;
+using GitHub.API.CashedServices;
 using GitHub.Service;
+using Microsoft.Extensions.Caching.Memory;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,13 +12,14 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-//builder.Services.Configure<GitHubIntegrationOptions>(builder.Configuration.GetSection(nameof(GitHubIntegrationOptions)));
 
 builder.Services.Configure<GitHubIntegrationOptions>(
-    builder.Configuration.GetSection("GitHubIntegrationOptions")
+    builder.Configuration.GetSection(nameof(GitHubIntegrationOptions))
 );
 
+builder.Services.AddMemoryCache();
 builder.Services.AddScoped<IGitHubService, GitHubService>();
+builder.Services.Decorate<IGitHubService, CachedGitHubService>();
 
 
 var app = builder.Build();

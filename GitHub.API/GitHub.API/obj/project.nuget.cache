@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fvT8b0657I8=",
+  "dgSpecHash": "Ybco6DRKq6Y=",
   "success": true,
   "projectFilePath": "C:\\Users\\user1\\Documents\\תכנות\\שיעורים\\שנה ב תשפה\\פרויקטים\\פרקטיקוד\\תרגולים\\5 כא אייר תשפה\\GitHub.API\\GitHub.API\\GitHub.API.csproj",
   "expectedPackageFiles": [
@@ -10,12 +10,14 @@
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.0-preview.4.25258.110\\microsoft.extensions.configuration.abstractions.10.0.0-preview.4.25258.110.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.0-preview.4.25258.110\\microsoft.extensions.configuration.binder.10.0.0-preview.4.25258.110.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0-preview.4.25258.110\\microsoft.extensions.dependencyinjection.abstractions.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.2\\microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0-preview.4.25258.110\\microsoft.extensions.logging.abstractions.10.0.0-preview.4.25258.110.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.options\\10.0.0-preview.4.25258.110\\microsoft.extensions.options.10.0.0-preview.4.25258.110.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\10.0.0-preview.4.25258.110\\microsoft.extensions.options.configurationextensions.10.0.0-preview.4.25258.110.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0-preview.4.25258.110\\microsoft.extensions.primitives.10.0.0-preview.4.25258.110.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\octokit\\14.0.0\\octokit.14.0.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\scrutor\\6.0.1\\scrutor.6.0.1.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
