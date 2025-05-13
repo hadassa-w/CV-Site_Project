@@ -1,0 +1,15 @@
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\פרויקטים\פרקטיקוד\תרגולים\5 כא אייר תשפה\GitHub.API\GitHub.Service\bin\Debug\net8.0\GitHub.Service.deps.json
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\פרויקטים\פרקטיקוד\תרגולים\5 כא אייר תשפה\GitHub.API\GitHub.Service\bin\Debug\net8.0\GitHub.Service.dll
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\פרויקטים\פרקטיקוד\תרגולים\5 כא אייר תשפה\GitHub.API\GitHub.Service\bin\Debug\net8.0\GitHub.Service.pdb
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\פרויקטים\פרקטיקוד\תרגולים\5 כא אייר תשפה\GitHub.API\GitHub.Service\obj\Debug\net8.0\GitHub.Service.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\פרויקטים\פרקטיקוד\תרגולים\5 כא אייר תשפה\GitHub.API\GitHub.Service\obj\Debug\net8.0\GitHub.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\פרויקטים\פרקטיקוד\תרגולים\5 כא אייר תשפה\GitHub.API\GitHub.Service\obj\Debug\net8.0\GitHub.Service.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\פרויקטים\פרקטיקוד\תרגולים\5 כא אייר תשפה\GitHub.API\GitHub.Service\obj\Debug\net8.0\GitHub.Service.AssemblyInfo.cs
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\פרויקטים\פרקטיקוד\תרגולים\5 כא אייר תשפה\GitHub.API\GitHub.Service\obj\Debug\net8.0\GitHub.Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\פרויקטים\פרקטיקוד\תרגולים\5 כא אייר תשפה\GitHub.API\GitHub.Service\obj\Debug\net8.0\GitHub.Service.dll
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\פרויקטים\פרקטיקוד\תרגולים\5 כא אייר תשפה\GitHub.API\GitHub.Service\obj\Debug\net8.0\refint\GitHub.Service.dll
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\פרויקטים\פרקטיקוד\תרגולים\5 כא אייר תשפה\GitHub.API\GitHub.Service\obj\Debug\net8.0\GitHub.Service.pdb
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\פרויקטים\פרקטיקוד\תרגולים\5 כא אייר תשפה\GitHub.API\GitHub.Service\obj\Debug\net8.0\ref\GitHub.Service.dll
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\פרויקטים\פרקטיקוד\תרגולים\5 כא אייר תשפה\GitHub.API\GitHub.Service\bin\Debug\net8.0\GitHub.Core.dll
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\פרויקטים\פרקטיקוד\תרגולים\5 כא אייר תשפה\GitHub.API\GitHub.Service\bin\Debug\net8.0\GitHub.Core.pdb
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\פרויקטים\פרקטיקוד\תרגולים\5 כא אייר תשפה\GitHub.API\GitHub.Service\obj\Debug\net8.0\GitHub.S.0E7D06F8.Up2Date
